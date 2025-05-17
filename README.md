@@ -14,3 +14,17 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+## Results
+Achieved **91.14% test accuracy** after 10 epochs:
+
+### Training Progress
+![Training Curves](training_curves.png)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
+
+### Sample Predictions
+```text
+GroundTruth: Ankle boot      Pullover        Trouser         Trouser         Shirt           Trouser         Coat            Shirt          
+Predicted:   Ankle boot      Pullover        Trouser         Trouser         Shirt           Trouser         Coat            Shirt
+```
