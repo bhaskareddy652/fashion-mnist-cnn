@@ -18,7 +18,7 @@ pip install -r requirements.txt
 Achieved **91.14% test accuracy** after 10 epochs:
 
 ### Training Progress
-![Training Curves](training_curves.png)
+![Training Curves](Training_curves.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
